@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Chat Do Ghosty-BOT🤖🔥",
+    "groupId": "120363046870209837@g.us",
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": true,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": true,
+    "antilinkhard": false,
+    "antifake": false,
+    "antimarc": true,
+    "antiview": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "antiporn": false,
+    "listanegra": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": null
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "#numerodele# 𝘽𝙀𝙈 𝙑𝙄𝙉𝘿𝙊 𝘼𝙊 𝙂𝙍𝙐𝙋𝙊  #nomedogp#\n\n\n𝙇𝙀𝙄𝘼 𝘼𝙎 𝙍𝙀𝙂𝙍𝘼𝙎:\n\n\n#descrição#",
+        "legendasaiu": null
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

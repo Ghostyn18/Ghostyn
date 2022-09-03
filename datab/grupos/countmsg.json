@@ -1,20 +1,25 @@
 [
   {
-    "groupId": "120363027838480800@g.us",
+    "groupId": "120363046870209837@g.us",
     "numbers": [
       {
-        "id": "559984620740@s.whatsapp.net",
-        "messages": 5,
+        "id": "5528999937326@s.whatsapp.net",
+        "messages": 4,
         "cmd_messages": 0
       },
       {
-        "id": "5521995400244@s.whatsapp.net",
-        "messages": 9,
-        "cmd_messages": 1
-      },
+        "id": "5528999499894@s.whatsapp.net",
+        "messages": 14,
+        "cmd_messages": 12
+      }
+    ]
+  },
+  {
+    "groupId": "120363044673138571@g.us",
+    "numbers": [
       {
-        "id": "558585287976@s.whatsapp.net",
-        "messages": 1,
+        "id": "5528999499894@s.whatsapp.net",
+        "messages": 2,
         "cmd_messages": 0
       }
     ]
