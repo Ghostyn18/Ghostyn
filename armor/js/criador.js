@@ -14,10 +14,10 @@ return`╭━━━━━◉                                       ◉━━━�
 ╭═══════◉
 ┆      ╔┉✼┉═༺◈✼❄️✼◈༻═┉✼┉╗
 ┆      ║
-┆      ║✼❄️ *Bot: ❄️ESDEATH BOT❄️*
+┆      ║✼❄️ *Bot: Ghostyn-BOT*
 ┆      ║✼❄️ *Criador: Lotus*
-┆      ║✼❄️ *Wa me Do Criador:* wa.me/+5521995400244
-┆      ║✼❄️ *Instagram: @esdesth.bot*
+┆      ║✼❄️ *Wa me Do Criador:* wa.me/++5528999499894
+┆      ║✼❄️ *Instagram: null *
 ┆      ║
 ┆      ╚┉✼┉═༺◈✼❄️✼◈༻═┉✼┉╝
 ╰═══════◉
